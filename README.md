@@ -1,1 +1,2 @@
 # pattern-recognition
+This repository contains two programs that I wrote, one in C and the other in MIPS assembly, for matching a pattern given a group of candidates and a target pattern. The patterns are represented conceptually using colors (red, blue, green, and yellow) however are stored as mere bits (00, 01, 10, 11) in memory. You can compile the C program and run the test and you should find that the 1st pattern is a match. You can also test the ASM file if you download misasim and load in the memory file.
